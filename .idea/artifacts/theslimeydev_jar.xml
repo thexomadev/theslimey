@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="theslimeydev:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/theslimeydev_jar</output-path>
+    <root id="archive" name="theslimeydev.jar">
+      <element id="module-output" name="theslimeydev" />
+    </root>
+  </artifact>
+</component>
